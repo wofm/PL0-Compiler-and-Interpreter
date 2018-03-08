@@ -1,0 +1,5 @@
+var a,b,c;
+repeat
+	a:=a+1;
+	write(a)
+	until a>5.
